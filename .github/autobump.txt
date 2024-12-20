@@ -2206,6 +2206,7 @@ ollama
 omake
 omega
 omniorb
+onctl
 onednn
 onedpl
 onedrive
