@@ -2771,6 +2771,7 @@ shtools
 shub
 shuffledns
 shush
+shuttle
 siege
 sigi
 sigma-cli
